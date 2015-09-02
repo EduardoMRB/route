@@ -1,8 +1,8 @@
 {
-    "name": "league/route",
+    "name": "eduardomrb/route",
     "description": "A fast routing and dispatch package built on top of FastRoute.",
     "keywords": [
-        "league",
+        "eduardomrb",
         "route"
     ],
     "homepage": "https://github.com/thephpleague/route",
